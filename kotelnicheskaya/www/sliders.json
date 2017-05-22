@@ -1,0 +1,78 @@
+{
+	"msk": [
+		{
+			"flatType": "Элитная квартира",
+			"flatAddress": "Хилков пер., д.1, «Остоженка Парк Палас»",
+			"flatArea": "245 кв.м",
+			"cssClass": "m-slider__item_park-palace"
+		},
+		{
+			"flatType": "Элитная квартира",
+			"flatAddress": "Климашкина ул., д.17, «Панорама»",
+			"flatArea": "345 кв.м",
+			"cssClass": "m-slider__item_panorama2"
+		},
+		{
+			"flatType": "Элитная квартира",
+			"flatAddress": "Фадеева ул., д. 4, «Итальянский квартал»",
+			"flatArea": "134 кв.м",
+			"cssClass": "m-slider__item_italy"
+		},
+		{
+			"flatType": "Элитная квартира",
+			"flatAddress": "Гранатный пер., д.6",
+			"flatArea": "227 кв.м",
+			"cssClass": "m-slider__item_granat"
+		},
+		{
+			"flatType": "Элитная квартира",
+			"flatAddress": "Советской Армии ул., д.6, Barkli Park",
+			"flatArea": "105 кв.м",
+			"cssClass": "m-slider__item_barkly"
+		},
+		{
+			"flatType": "Элитная квартира",
+			"flatAddress": "Озерковская наб., д.26, «Аквамарин»",
+			"flatArea": "160 кв.м",
+			"cssClass": "m-slider__item_aquamarin"
+		}
+	],
+	"area": [
+		{
+			"flatType": "Загородный дом",
+			"flatAddress": "Коттеджный поселок «Чистые пруды»",
+			"flatArea": "350 кв.м",
+			"cssClass": "m-slider__item_slide1"
+		},
+		{
+			"flatType": "Загородный дом",
+			"flatAddress": "Участок на берегу Клязьминского водохранилища",
+			"flatArea": "28 соток",
+			"cssClass": "m-slider__item_slide2"
+		},
+		{
+			"flatType": "Загородный дом",
+			"flatAddress": "Коттеджный поселок «Изумрудный Городок»",
+			"flatArea": "700 кв.м",
+			"cssClass": "m-slider__item_slide3"
+		},
+		{
+			"flatType": "Загородный дом",
+			"flatAddress": "Коттеджный поселок «Барвиха-2»",
+			"flatArea": "400 кв.м",
+			"cssClass": "m-slider__item_slide4"
+		},
+		{
+			"flatType": "Загородный дом",
+			"flatAddress": "ДНП «Полянка»",
+			"flatArea": "622 кв.м",
+			"cssClass": "m-slider__item_slide5"
+		},
+		{
+			"flatType": "Загородный дом",
+			"flatAddress": "Коттеджный поселок «Успенские дачи»",
+			"flatArea": "480 кв.м",
+			"cssClass": "m-slider__item_slide6"
+		}
+	]
+}

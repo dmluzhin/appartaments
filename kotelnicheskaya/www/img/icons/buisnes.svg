@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600px" height="600px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 600 600"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID1" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+  </font>
+  <font id="FontID0" horiz-adv-x="710" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Russo One">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="А" horiz-adv-x="710"><path d="M185 0l-195 0 265 700 200 0 265 -700 -195 0 -44.9998 125 -250 0 -45.0004 -125zm90.0002 255l160 0 -79.9996 235 -80.0002 -235z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Russo One";src:url("#FontID0") format(svg)}
+    .fil0 {fill:none}
+    .fil1 {fill:#CBBB61;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:430.812px;font-family:'Russo One'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.915147 0 0 1 -114.505 150.784)">
+   <text x="300" y="300"  class="fil0 fnt0">А</text>
+  </g>
+  <g transform="matrix(0.915147 0 0 1 -114.505 150.784)">
+  </g>
+  <path class="fil1" d="M-4 562l34 0 -2 -490 0 -10 10 0 21 0 0 -34 0 -10 10 0 330 0 10 0 0 10 0 34 21 0 10 0 0 10 0 188 29 0 7 0 2 6 102 295 25 0 0 19 -19 0 0 0 -13 0 -77 0 -7 0 0 0 -120 0 0 0 -7 0 -77 0 -13 0 0 0 -275 0 0 -19zm424 -302l0 -179 -372 0 0 65 298 0 0 19 -298 0 0 46 298 0 0 19 -298 0 0 46 238 0 0 19 -238 0 0 46 213 0 0 19 -213 0 0 46 188 0 0 19 -188 0 0 46 166 0 0 19 -166 0 0 73 228 0 102 -295 2 -6 7 0 31 0zm-122 302l57 0 16 -47 2 -7 7 0 99 0 7 0 2 7 16 47 57 0 -98 -283 -65 0 -98 283zm77 0l45 0 0 -35 -34 0 -11 35zm64 -35l0 35 44 0 -11 -35 -32 0zm-29 -75l37 0 -19 -60 -19 60zm50 19l-63 0 -13 0 4 -12 32 -101 9 -29 9 29 32 101 4 12 -13 0zm-382 -409l311 0 0 -25 -311 0 0 25z"/>
+ </g>
+</svg>
