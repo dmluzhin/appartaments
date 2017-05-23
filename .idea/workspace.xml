@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f7ffdef-616b-4cc5-b93f-490a928c116d" name="Default" comment="" />
+    <list default="true" id="7f7ffdef-616b-4cc5-b93f-490a928c116d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/know_img.png" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/know_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/logo.png" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho1.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho1b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho1b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho2.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho2b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho2b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho3.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho3b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho3b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho4.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho4b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho4b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob1.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob2.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob3.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob4.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob5.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob6.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js" afterPath="$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/index.html" afterPath="$PROJECT_DIR$/kotelnicheskaya/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/css/main.css" afterPath="$PROJECT_DIR$/kotelnicheskaya/css/main.css" />
+    </list>
     <ignored path="appartaments.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,9 +43,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kotelnicheskaya/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30530614">
-              <caret line="143" column="30" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
-              <folding />
+            <state vertical-scroll-proportion="0.33306122">
+              <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,8 +56,18 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kotelnicheskaya/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.931034">
+              <caret line="980" column="21" selection-start-line="980" selection-start-column="21" selection-end-line="980" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon_customImage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="240" column="1" selection-start-line="240" selection-start-column="1" selection-end-line="240" selection-end-column="1" />
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -48,6 +81,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js" />
+        <option value="$PROJECT_DIR$/kotelnicheskaya/css/main.css" />
         <option value="$PROJECT_DIR$/kotelnicheskaya/index.html" />
       </list>
     </option>
@@ -88,7 +123,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -125,13 +160,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartaments.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartaments.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotelnicheskaya" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartaments.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartaments.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotelnicheskaya" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,6 +243,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -186,16 +263,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17249602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1736884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2906542" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18282989" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18282989" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -218,6 +295,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kotelnicheskaya/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kotelnicheskaya/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -226,11 +314,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotelnicheskaya/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.931034">
+          <caret line="980" column="21" selection-start-line="980" selection-start-column="21" selection-end-line="980" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kotelnicheskaya/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30530614">
-          <caret line="143" column="30" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
-          <folding />
+        <state vertical-scroll-proportion="0.33306122">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
