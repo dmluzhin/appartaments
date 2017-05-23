@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f7ffdef-616b-4cc5-b93f-490a928c116d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/know_img.png" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/know_img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/logo.png" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho1.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho1b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho1b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho2.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho2b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho2b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho3.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho3b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho3b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho4.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/pho4b.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/pho4b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob1.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob2.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob3.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob4.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob5.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/img/photob6.jpg" afterPath="$PROJECT_DIR$/kotelnicheskaya/img/photob6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js" afterPath="$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/index.html" afterPath="$PROJECT_DIR$/kotelnicheskaya/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/css/main.css" afterPath="$PROJECT_DIR$/kotelnicheskaya/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotelnicheskaya/mail.php" afterPath="$PROJECT_DIR$/kotelnicheskaya/mail.php" />
     </list>
     <ignored path="appartaments.git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kotelnicheskaya/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33306122">
+            <state vertical-scroll-proportion="-7.034483">
               <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -73,6 +55,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kotelnicheskaya/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14012739">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -84,6 +76,7 @@
         <option value="$PROJECT_DIR$/kotelnicheskaya/js/icon_customImage.js" />
         <option value="$PROJECT_DIR$/kotelnicheskaya/css/main.css" />
         <option value="$PROJECT_DIR$/kotelnicheskaya/index.html" />
+        <option value="$PROJECT_DIR$/kotelnicheskaya/mail.php" />
       </list>
     </option>
   </component>
@@ -332,12 +325,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kotelnicheskaya/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33306122">
+        <state vertical-scroll-proportion="-7.034483">
           <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotelnicheskaya/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14012739">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

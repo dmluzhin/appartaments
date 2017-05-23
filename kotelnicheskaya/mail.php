@@ -1,7 +1,7 @@
 <?php
 $to = ['voronkov@kre.ru', 'vvoinov@kre.ru', 'voinov_vova@mail.ru', 'info@kre.ru', 'assistcity@kre.ru', 'd.m.luzhin@gmail.com']; // Основной email
 
-$subject = isset($_POST['subject']) ? $_POST['subject'] : 'Запрос с лендинга Полянка 44';
+$subject = isset($_POST['subject']) ? $_POST['subject'] : 'Запрос с лендинга Котельническая 13';
 if (isset($_POST['name'])) $message = '<p>Имя: ' . $_POST['name'] . '</p>';
 if (isset($_POST['phone'])) $message .= '<p>Телефон: ' . $_POST['phone'] . '</p>';
 
